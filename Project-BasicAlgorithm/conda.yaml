@@ -17,10 +17,10 @@
 
 name: sklearn
 channels:
-  - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
   - defaults
   - anaconda
   - conda-forge
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
 dependencies:
 
   - numpy>=1.14.3
